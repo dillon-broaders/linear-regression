@@ -34,3 +34,5 @@ program to quickly generate regression plots and display results.
 2. Edit script to specify your file and column names.
 
 3. Run script to generate the regression plot.
+
+## MIT License
