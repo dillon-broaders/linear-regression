@@ -1,4 +1,4 @@
-# Simple linear regression program
+# Linear regression 
 
 This Python program reads data from an Excel file, performs linear regression, and generates a plot with the line of best fit. It also calculates the slope, 
 intercept, R² value, and their respective errors. It displays this regression information plus any error bars for both x and y values.
