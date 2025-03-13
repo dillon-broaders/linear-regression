@@ -28,8 +28,8 @@ program to quickly generate regression plots and display results.
 1. Prepare Excel file with the following columns:
    - **x**: x axis values.
    - **y**: y axis values.
-   - **xerr**: x error values.
-   - **yerr**: y error values.
+   - **xerr**: x error values (optional).
+   - **yerr**: y error values (optional).
 
 2. Edit script to specify your file and column names.
 
