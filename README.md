@@ -5,7 +5,7 @@ intercept, R² value, and their respective errors. It displays this regression i
 
 ## Motivation
 
-During my undergraduate labs, MacOS users couldn't use a data analsis software called Origin for data analysis. At the time, this software could only be used on Windows. Hence, I created this short and simple program to generate linear regression plots for an excel spreadsheet input. 
+During my undergraduate labs, MacOS users couldn't use a data analsis software called Origin for data analysis. I created this program to generate linear regression plots for an excel spreadsheet input. 
 
 ## Features
 
